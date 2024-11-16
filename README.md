@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Portfolio using React<br><br>🌱 I’m currently learning MERN Stack<br><br>💬 Ask me about JavaScript, Java and jQuery<br><br>📫 How to reach me saransoundhar06@gmail.com<br><br>⚡ I can debug code in my sleep💤💤... literally, I've solved bugs🪲🐞 after waking up!
+🔭 I’m currently working on Portfolio using React<br><br>🌱 I’m currently learning MERN Stack<br><br>💬 Ask me about JavaScript, Java and jQuery<br><br>📫 How to reach me saransoundhar06@gmail.com<br><br>⚡ I can debug code in my sleep💤💤 literally, I've solved bugs🪲🐞 after waking up!
 
 
 ## 🌐 Socials:
