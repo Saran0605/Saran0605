@@ -1,43 +1,58 @@
-⚡ Saran Soundhar · @Saran0605
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FEC601&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Debugging+in+my+sleep+%F0%9F%98%8C;Open+Source+Contributor;Lifelong+Learner" alt="Typing SVG" /> </p> <div align="center"> <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="200"/> </div>
-🔭 Currently Working On:
-🚀 Pradan NGO Project - Empowering communities through technology
+# 💫 About Me:
+🔭 I’m currently working on Pradan NGO Project<br><br>🌱 I’m currently learning MERN Stack<br><br>💬 Ask me about Full Stack and MERN<br><br>📫 How to reach me saransoundhar06@gmail.com<br><br>⚡ I can debug code in my sleep💤💤 literally, I've solved bugs🪲🐞 after waking up!
 
-🔧 Building scalable MERN Stack Applications
 
-🤝 Open-source contributions and collaborations
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/saran-s05) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saransoundhar06@gmail.comd) 
 
-🌱 Currently Learning:
-Deep dive into MERN Stack
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
+![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white)
+![Nodemon](https://img.shields.io/badge/Nodemon-%23323330.svg?style=flat-square&logo=nodemon&logoColor=%BBDEAD)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-%23EC5990.svg?style=flat-square&logo=reacthookform&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=mysql&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=canva&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-Optimizing backend APIs
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Saran0605&theme=omni&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Saran0605&theme=omni&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saran0605&theme=omni&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-Deploying production-ready Dockerized apps
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Saran0605&theme=omni&no-frame=false&no-bg=true&margin-w=4)
 
-💻 Tech Stack & Tools
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,php,laravel,java,python,mysql,c,bootstrap,azure,firebase,docker,vite,postman,git,github,vscode,netlify" /> </p>
-🧠 GitHub Stats & Activity
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Saran0605&theme=radical&show_icons=true&hide_border=false&count_private=true" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saran0605&theme=radical&hide_border=false" width="48%"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saran0605&layout=compact&theme=radical&hide_border=false&langs_count=10" width="50%"/> </p>
-🏆 GitHub Achievements
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Saran0605&theme=radical&no-bg=true&no-frame=true&margin-w=15" /> </p>
-✍️ Dev Quote of the Day
-<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko" /> </p>
-🌐 Connect with Me
-<p align="center"> <a href="mailto:saransoundhar06@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://linkedin.com/in/saran-s05"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://github.com/Saran0605"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a> </p>
-🕵️‍♂️ Fun Facts
-💤 I literally debug code in my sleep — not even joking!
+### ✍ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-🐛 Bugs fear me more than try-catch
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Saran0605&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
 
-🛠️ Code today, break tomorrow, fix in sleep
+---
+[![](https://visitcount.itsvg.in/api?id=Saran0605&icon=0&color=1)](https://visitcount.itsvg.in)
 
-📈 Visitor Count
-<p align="center"> <img src="https://visitcount.itsvg.in/api?id=Saran0605&label=Profile%20Views&color=6&icon=0&pretty=true" /> </p>
-“The best error message is the one that never shows up.”
-— Yours Truly, While Coding at 3 AM
-
-💥 Inspired by Dev Magic? Clone & Connect with Me! 🔗
-bash
-Copy
-Edit
-git clone https://github.com/Saran0605
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
