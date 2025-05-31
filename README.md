@@ -1,18 +1,18 @@
 ⚡ Saran Soundhar · @Saran0605
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FEC601&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Debugging+in+my+sleep+%F0%9F%98%8C;Open+Source+Contributor;Lifelong+Learner" alt="Typing SVG" /> </p> <div align="center"> <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="200"/> </div>
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FEC601&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Debugging+in+my+sleep+%F0%9F%98%8C;Open+Source+Contributor;Lifelong+Learner" alt="Typing SVG" /> </p> <div align="center"> <img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="200"/> </div>
 🔭 Currently Working On:
-🚀 Pradan NGO Project - empowering communities with code
+🚀 Pradan NGO Project - Empowering communities through technology
 
 🔧 Building scalable MERN Stack Applications
 
-🤝 Collaborative & open-source friendly
+🤝 Open-source contributions and collaborations
 
 🌱 Currently Learning:
-Deep Dive into MERN Stack
+Deep dive into MERN Stack
 
-Optimizing Backend APIs
+Optimizing backend APIs
 
-Production-ready Dockerized apps
+Deploying production-ready Dockerized apps
 
 💻 Tech Stack & Tools
 <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,php,laravel,java,python,mysql,c,bootstrap,azure,firebase,docker,vite,postman,git,github,vscode,netlify" /> </p>
@@ -35,3 +35,9 @@ Production-ready Dockerized apps
 <p align="center"> <img src="https://visitcount.itsvg.in/api?id=Saran0605&label=Profile%20Views&color=6&icon=0&pretty=true" /> </p>
 “The best error message is the one that never shows up.”
 — Yours Truly, While Coding at 3 AM
+
+💥 Inspired by Dev Magic? Clone & Connect with Me! 🔗
+bash
+Copy
+Edit
+git clone https://github.com/Saran0605
